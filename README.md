@@ -18,31 +18,31 @@ stop ‘40120-Tınaztepe Kampüs Son Durak’. The path consists of 23 stops and
 thus 11 transfers are required to complete the journey. Producing such an unefficient path
 should be avoided.
 
-## Table 1. The shortest path produced by the original Dijkstra’s algorithm.
-## Step Stop Id Stop Name Line No Line Name
-1 10036 Konak 72 İşçievleri-Konak
-2 10023 Bahribaba Alt 7 Sahilevleri-Konak
-3 10015 Bahribaba 152 Gaziemir-Konak
-4 10241 Kız Yurdu 43 Yapıcıoğlu-Konak
-5 12061 Eşref Paşa 23 Uzundere-Konak
-6 12063 Yağhaneler 90 Gaziemir- Halkapınar Metro
-7 10617 Elka 870 Hıfzıssıhha- Tınaztepe
-8 11873 Köprü 870 Hıfzıssıhha- Tınaztepe
-9 40001 Nato 576 Tınaztepe- Halkapınar Metro
-10 41177 Şirinyer Aktarma 36 Buca-Gümrük
-11 40199 Koşu Yolu 36 Buca-Gümrük
-12 40201 İstasyon 36 Buca-Gümrük
-13 40207 Vali Rahmi Bey 36 Buca-Gümrük
-14 40209 Şehitler Parkı 36 Buca-Gümrük
-15 40733 Buca Devlet Hastanesi 36 Buca-Gümrük
-16 40735 Çevik Bir 36 Buca-Gümrük
-17 40737 Buca Sağlık Ocağı 36 Buca-Gümrük
-18 40739 Buca Üçkuyular Meydan 604 Sebze Hali-Ayakkabıcılar Sitesi
-19 40079 Hasan Ağa Bahçesi 176 Ufuk Mahallesi- Demirciköy
-20 40067 Eski Mezarlık 176 Ufuk Mahallesi- Demirciköy
-21 40069 Fabrika 176 Ufuk Mahallesi- Demirciköy
-22 40071 Begos 671 Narlıdere- Tınaztepe
-23 40120 Tınaztepe Kampüs Son Durak
+###  Table 1. The shortest path produced by the original Dijkstra’s algorithm.
+### Step Stop Id Stop Name Line No Line Name
+* 1 10036 Konak 72 İşçievleri-Konak
+* 2 10023 Bahribaba Alt 7 Sahilevleri-Konak
+* 3 10015 Bahribaba 152 Gaziemir-Konak
+* 4 10241 Kız Yurdu 43 Yapıcıoğlu-Konak
+* 5 12061 Eşref Paşa 23 Uzundere-Konak
+* 6 12063 Yağhaneler 90 Gaziemir- Halkapınar Metro
+* 7 10617 Elka 870 Hıfzıssıhha- Tınaztepe
+* 8 11873 Köprü 870 Hıfzıssıhha- Tınaztepe
+* 9 40001 Nato 576 Tınaztepe- Halkapınar Metro
+* 10 41177 Şirinyer Aktarma 36 Buca-Gümrük
+* 11 40199 Koşu Yolu 36 Buca-Gümrük
+* 12 40201 İstasyon 36 Buca-Gümrük
+* 13 40207 Vali Rahmi Bey 36 Buca-Gümrük
+* 14 40209 Şehitler Parkı 36 Buca-Gümrük
+* 15 40733 Buca Devlet Hastanesi 36 Buca-Gümrük
+* 16 40735 Çevik Bir 36 Buca-Gümrük
+* 17 40737 Buca Sağlık Ocağı 36 Buca-Gümrük
+* 18 40739 Buca Üçkuyular Meydan 604 Sebze Hali-Ayakkabıcılar Sitesi
+* 19 40079 Hasan Ağa Bahçesi 176 Ufuk Mahallesi- Demirciköy
+* 20 40067 Eski Mezarlık 176 Ufuk Mahallesi- Demirciköy
+* 21 40069 Fabrika 176 Ufuk Mahallesi- Demirciköy
+* 22 40071 Begos 671 Narlıdere- Tınaztepe
+* 23 40120 Tınaztepe Kampüs Son Durak
 
 # Neighbor Stops
 To make point to point queries in a transportation network, some sort of walk-distance edges
