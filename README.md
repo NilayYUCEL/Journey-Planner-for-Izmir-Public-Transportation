@@ -88,25 +88,25 @@ transfer).
 ### Table 2. Sample Results
 ### Path 1. 104 - Walk
 #### Line: 104-TINAZTEPE – KONAK (Direction - 0)
-Origin Stop: 40015 - Buca Belediye Sarayı
-Destination Stop: 40121 - Tınaz Tepe
-Stop Count: 11
+* Origin Stop: 40015 - Buca Belediye Sarayı
+* Destination Stop: 40121 - Tınaz Tepe
+* Stop Count: 11
 
 #### Line: Walk
-Origin Stop: 40121 - Tınaz Tepe
-Destination Stop: 40124 - Tınaztepe Son Durak
-Walk-distance: 38 m
+* Origin Stop: 40121 - Tınaz Tepe
+* Destination Stop: 40124 - Tınaztepe Son Durak
+* Walk-distance: 38 m
 
 ### Path 2. 805 - 878
 #### Line: 805-ÇAMLIKULE - ŞİRİNYER AKTARMA (Direction - 1)
-Origin Stop: 40015 - Buca Belediye Sarayı
-Destination Stop: 40737 - Buca Sağlık Ocağı
-Stop Count: 5
+* Origin Stop: 40015 - Buca Belediye Sarayı
+* Destination Stop: 40737 - Buca Sağlık Ocağı
+* Stop Count: 5
 
 #### Line: 878-TINAZTEPE - ŞİRİNYER AKTARMA (Direction - 1)
-Origin Stop: 40737 - Buca Sağlık Ocağı
-Destination Stop: 40124 - Tınaz Tepe
-Stop Count: 6
+* Origin Stop: 40737 - Buca Sağlık Ocağı
+* Destination Stop: 40124 - Tınaz Tepe
+* Stop Count: 6
 
 There could be so many alternative paths as a result of a query. It is not necessary to report all
 of them to the user. These paths should be filtered according to the preferred criteria and only
