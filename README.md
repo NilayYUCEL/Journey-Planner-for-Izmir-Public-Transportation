@@ -56,7 +56,7 @@ distance.
 # Representation of the Transportation Graph
 In this assignment, you are expected to represent each stop (bus, train, metro, ferry) as a node
 and to represent each line connecting two consecutive stops in a certain direction as a directed
-edge to form a transportation graph. This graph is a directed graph as illustrated in Figure 1.
+edge to form a transportation graph.
 
 # Path Finding
 ##  Direct Routes
