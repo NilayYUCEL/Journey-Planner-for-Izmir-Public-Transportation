@@ -118,9 +118,9 @@ query time and result count in your project report. In addition, explain the det
 algorithm.
 
 # Provided Resources
-*Line lists (line.txt)
-*Stop list (stop.txt)
-*Trip list (trip.txt)
+* Line lists (line.txt)
+* Stop list (stop.txt)
+* Trip list (trip.txt)
 * Directions
   * Direction Id Direction
    * 0 Travel in one direction (e.g. outbound travel)
